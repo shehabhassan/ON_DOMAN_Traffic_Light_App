@@ -1,0 +1,30 @@
+***************************************************
+User story 1	
+
+a short press -->  1-  cars green light is on - pedestrian red light is off (5 Sec)
+              -->  2-  wait for the yellow lights to blink for five seconds (5 Sec)
+              -->  3-  cars red light is on - pededstrian green light is on (5 Sec)
+***************************************************
+User story 2	
+
+a short press --> 1- cars yellow light is blinking  - pedestrian red light is on  (5 Sec)
+              --> 2- Both yellow lights to blink (5 Sec) -  
+              --> 3- cars red light is on  - pededstrian green light is on (5 Sec)
+                   
+***************************************************
+User story 3	
+
+a short press --> 1- cars red light is on - pedestrian green light is on (5 Sec)
+              --> 2-   I expect nothing to be done   
+
+***************************************************
+User story 4	
+
+a long press --> 1- I expect nothing to be done
+             
+***************************************************
+User story 5
+
+a double press --> 1-  I expect that the first press will do the action 
+               --> 2-  nothing to be done after the second press.
+              
